@@ -1,6 +1,6 @@
 <?php
 /*******************************************************************************
- *                      PHP Paypal IPN Integration CodeIgniter Class
+ *                      PHP Paypal IPN Integration CodeIgniter Library
  *******************************************************************************
  *      Author:     Abdul Mannan
  *      Email:      mannan@spagreen.net
@@ -118,7 +118,7 @@ class Paypal {
    var $fields = array();           // array holds the fields to submit to paypal
 
    
-   function Paypal() {
+   public function __construct(){
        
       // initialization constructor.  Called when class is created.
       
