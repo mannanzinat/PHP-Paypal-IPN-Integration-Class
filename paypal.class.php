@@ -1,6 +1,6 @@
 <?php
 /*******************************************************************************
- *                      PHP Paypal IPN Integration CodeIgniter Class
+ *                      PHP Paypal IPN Integration PHP Class
  *******************************************************************************
  *      Author:     Abdul Mannan
  *      Email:      mannan@spagreen.net
